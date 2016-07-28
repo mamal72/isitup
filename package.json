@@ -1,6 +1,6 @@
 {
   "name": "isitup",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple client for isitup.org website",
   "main": "index.js",
   "scripts": {
