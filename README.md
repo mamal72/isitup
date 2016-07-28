@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/mamal72/isitup.svg?branch=master)](https://travis-ci.org/mamal72/isitup)
+[![Coverage Status](https://coveralls.io/repos/github/mamal72/isitup/badge.svg?branch=master)](https://coveralls.io/github/mamal72/isitup?branch=master)
 [![npm version](https://badge.fury.io/js/isitup.svg)](https://badge.fury.io/js/isitup)
 
 # isitup
