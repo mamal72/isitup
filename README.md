@@ -32,6 +32,16 @@ isitup('github.com').then(data => {
 });
 ```
 
+## Command line usage
+Install it with `-g` flag:
+```bash
+npm install -g isitup
+```
+and in terminal type:
+```bash
+isitup github.com
+```
+and see help page with `isitup --help`.
 
 ## Tests
 
